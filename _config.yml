@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jacob Beckerle
-title: Job
+title: Web Development/Software Engineer
 email: jacobbeckerle@gmail.com
 # email_title: Email (Email title override)
 phone: 
@@ -20,18 +20,11 @@ darkmode: false
 
 # Social links
 twitter_username: 
-github_username:  
+github_username: ManfredRichthofen 
 stackoverflow_username: 
-dribbble_username: 
 facebook_username: 
-flickr_username: 
 instagram_username: 
-linkedin_username: 
-xing_username: 
-pinterest_username: 
-youtube_username: 
-googleplus_username: 
-orcid_username: 
+
 
 # Additional icon links
 additional_links:
